@@ -1,4 +1,4 @@
-SafewayJ4U-Bookmarklet V 0.1.0
+SafewayJ4U-Bookmarklet V 0.2.0
 ======================
 
 SafewayJ4U
@@ -16,5 +16,6 @@ Changes - 6th April 2013
 1. Now All "Your Club Specials" will be added to the card.
 2. Added a Notification when coupons are added.
 3. Added support for other "Safeway" Grocery sites offering J4U like VONS, Pavilion, Randalls, Tomthumb.
+
 
 Enjoy !
