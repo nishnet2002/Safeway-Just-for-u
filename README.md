@@ -12,4 +12,9 @@ SafewayJ4U
 Greasemonkey script is also available:
 http://userscripts.org/scripts/show/139153
 
+Changes - 6th April 2013
+1. Now All "Your Club Specials" will be added to the card.
+2. Added a Notification when coupons are added.
+3. Added support for other "Safeway" Grocery sites offering J4U like VONS, Pavilion, Randalls, Tomthumb.
+
 Enjoy !
