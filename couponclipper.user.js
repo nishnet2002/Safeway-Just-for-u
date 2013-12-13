@@ -39,7 +39,15 @@ function OfferProcessor(url, callback) {
                         type: 'POST',
                         url: _clippingUrl,
                         contentType: 'application/json',
-                        data: jsonStr
+                        data: jsonStr,
+			beforeSend: function (xhr) {
+				xhr.setRequestHeader('SWY_API_KEY', 'emjou');
+				xhr.setRequestHeader('SWY_BANNER', 'safeway');
+				xhr.setRequestHeader('SWY_VERSION', '1.0');
+				xhr.setRequestHeader('X-SWY_API_KEY', 'emjou');
+				xhr.setRequestHeader('X-SWY_BANNER', 'safeway');
+				xhr.setRequestHeader('X-SWY_VERSION', '1.0');
+			}
                     });
                 }
             }
