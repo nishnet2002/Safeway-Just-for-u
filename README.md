@@ -18,5 +18,7 @@ http://userscripts.org/scripts/show/139153
 2. Added a Notification when coupons are added.
 3. Added support for other "Safeway" Grocery sites offering J4U like VONS, Pavilion, Randalls, Tomthumb.
 
+<b>Changes - 13th Dec 2013
+1. Added Headers to POST request.
 
 Enjoy !
