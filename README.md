@@ -17,6 +17,7 @@ This repository has source code for  Userscript(Greasemonkey script) and Bookmar
 ## Option 1: Bookmarklet
 
 Instructions:
+
 1. Copy the source from bookmarklet.txt - https://github.com/nishnet2002/SafewayJ4U-Bookmarklet/blob/master/bookmarklet.txt
 2. Create a bookmark in your favorite browser using that text.
 3. Visit safeway.com and signin (make sure you visit the FULL site and not mobile site.)
