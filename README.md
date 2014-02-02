@@ -3,7 +3,9 @@ Safeway **Just for u** v0.2.0
 
 ## Summary
 
-Clip digital coupons **Just for U**  automatically added to your card. Supported grocery stores:
+"I've found myself at the grocery store unexpected, wishing that I would have loaded my coupons." If this idea resonates with you then this app is must have: Clip digital coupons "Just for U" automatically added to your card. 
+
+Supported stores:
 
 1. Safeway
 2. Vons
