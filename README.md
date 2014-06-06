@@ -28,10 +28,11 @@ Instructions:
 
 ## Option 2: Using userscript or Greasemonkey Script (Free)
 
+Unfortunately, userscripts servers are down. I will post it on someother website. Suggestions are welcome
 Instructions: [Greasemonkey Script] (http://userscripts.org/scripts/show/139153)
 
 
-## Option 3: Install Android app on your phone (Paid App $4.99)
+## Option 3: Install Android app on your phone (Paid App $1.99)
 
 [![J4U Clipper](https://lh3.ggpht.com/PQ5EPmtHfDABo4EKGaTICgXtYr3_2dv7ZbTUpU7r4ikpkoRI1pXQRMsT0uDojvXi9Jc=w300)](https://play.google.com/store/apps/details?id=com.nclabs.j4u&hl=en) [![J4U Clipper on Android](http://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.nclabs.j4u&hl=en)
 
